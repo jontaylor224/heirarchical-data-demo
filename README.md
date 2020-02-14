@@ -20,7 +20,7 @@ In your browser, go to:
 'http://localhost:8000'
 
 Sign up as a new user, or login as an existing user:
-'username: test'
+'username: jon'
 'password: 4567rtyu'
 
 #### Note that file and folder names must be unique.
